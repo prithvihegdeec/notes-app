@@ -1,0 +1,14 @@
+This app is similar to the notes app in google. you can make a note, update it, remove it, add a new note, pin it, copy a note. So all these operations can be done in this app.
+Steps to the project:
+    1.npm init -y
+    2.npm install --save express
+    3.nodemon index.js
+    4.npm install --save mongoose
+    5.create folder:
+        app
+            /controllers
+            /models
+    6.create folder:
+        config
+            database.js
+            routes.js
